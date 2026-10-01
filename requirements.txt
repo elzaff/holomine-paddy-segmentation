@@ -1,0 +1,14 @@
+torch==2.7.1
+torchvision==0.22.1
+segmentation-models-pytorch==0.5.0
+timm==1.0.20
+transformers==4.57.6
+albumentations==2.0.8
+opencv-python-headless==4.10.0.84
+huggingface_hub==0.36.0
+scipy
+numpy
+pandas
+# notebook only
+matplotlib
+ipykernel

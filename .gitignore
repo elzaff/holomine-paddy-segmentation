@@ -1,0 +1,13 @@
+# competition data and run outputs are never committed
+data/*
+!data/README.md
+work/
+*.pt
+*.npy
+*.npz
+submission*.csv
+!submissions/*.csv
+
+__pycache__/
+.ruff_cache/
+.ipynb_checkpoints/
